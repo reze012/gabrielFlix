@@ -1,6 +1,10 @@
 [index.HTML](https://github.com/user-attachments/files/22006007/index.HTML)
 <body>
-
+  
+<head>
+<link rel="stylesheet" href=style.css />
+</header>
+  
 <header>ALURAFLIX</header>
 
 
@@ -13,3 +17,8 @@
 
 
 </body>
+
+
+
+
+
