@@ -1,0 +1,20 @@
+[index.HTML](https://github.com/user-attachments/files/22006007/index.HTML)
+<body>
+  
+<head>
+<link rel="stylesheet" href=style.css />
+  <titulo></titulo>
+</head>
+  
+<header>ALURAFLIX</header>
+
+
+<H1>ATRAVES DO ARANHAVERSO SUPERA O PRIMEIRO FILME?</H1>
+<P>#homen-aranha</P>
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gt_fAE1Eg2Q?si=8VPGkv66ssVYnsMf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+</body>
